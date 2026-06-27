@@ -113,17 +113,16 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayasurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasurya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="98%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=vanamalajayasurya&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFB3&icon_color=8360C3&text_color=C9D1D9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=vanamalajayasurya&theme=radical&hide_border=true&background=0D1117&ring=2EBFB3&fire=8360C3&currStreakLabel=2EBFB3" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanamalajayasurya&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EBFB3&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanamalajayasurya&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EBFB3&line=8360C3&point=FFFFFF" width="98%" />
 </div>
 
 ---
