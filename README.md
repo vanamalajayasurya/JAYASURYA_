@@ -98,7 +98,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasurya)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamala-jayasurya-5b1138324/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jay._surya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasuryaportfilio.vercel.app/)
@@ -133,12 +133,12 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayasurya&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFB3&icon_color=8360C3&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya&theme=radical&hide_border=true&background=0D1117&ring=2EBFB3&fire=8360C3&currStreakLabel=2EBFB3" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFB3&icon_color=8360C3&text_color=C9D1D9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2EBFB3&fire=8360C3&currStreakLabel=2EBFB3" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EBFB3&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EBFB3&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasurya&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EBFB3&line=8360C3&point=FFFFFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EBFB3&line=8360C3&point=FFFFFF" width="98%" />
 
 </div>
 
@@ -148,7 +148,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jayasurya&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
 
@@ -158,7 +158,10 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- After setting up your profile repo, generate the snake via GitHub Actions:
+     Go to: https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/actions
+     Or use: https://github.com/Platane/snk to set it up once -->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -180,7 +183,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayasurya&color=2ebfb3&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2ebfb3&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
