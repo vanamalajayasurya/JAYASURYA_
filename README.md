@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jayasurya+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p><i>✨ Turning data into insights · Ideas into interfaces · Code into experiences ✨</i></p>
 
