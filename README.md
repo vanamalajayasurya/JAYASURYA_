@@ -4,7 +4,7 @@
 
 <br/>
 
-![Avatar](https://capsule-render.vercel.app/api?type=egg&color=0:8360c3,100:2ebf91&height=200&section=header&text=VJ&fontSize=80&fontColor=ffffff&animation=twinkling)
+<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/profile.jpg" width="150" style="border-radius:50%;" />
 
 <br/><br/>
 
