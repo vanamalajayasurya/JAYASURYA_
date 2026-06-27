@@ -127,10 +127,12 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vanamalajayasurya&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
+<img src="https://media.giphy.com/media/l4FGI8GoTL7oJukyA/giphy.gif" width="480" alt="Achievement" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:000000&height=150&section=footer&animation=fadeIn)
 
 ---
 
