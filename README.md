@@ -188,7 +188,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=shark&color=0:2ebf91,100:8360c3&height=140&section=footer&animation=twinkling)
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://jayasuryaportfilio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamala-jayasurya-5b1138324/)
