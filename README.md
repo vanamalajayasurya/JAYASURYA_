@@ -139,13 +139,6 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 </div>
 
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:000000&height=150&section=footer&animation=fadeIn)
-
-</div>
 
 ---
 
