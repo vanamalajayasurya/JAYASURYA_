@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="profile.jpg" width="150" style="border-radius:50%; border: 3px solid #2EBFB3; animation: spin 3s linear infinite;" />
+<a href="https://github.com/vanamalajayasurya">
+<img src="profile.jpg" width="150" style="border-radius:50%; border: 4px solid #8360C3; box-shadow: 0 0 20px #2EBFB3, 0 0 40px #8360C3;" />
+</a>
 
 <br/>
 
