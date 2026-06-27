@@ -133,6 +133,10 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <img src="spiderman-venom.gif" width="300" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanamalajayasurya&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
+
 </div>
 
 
