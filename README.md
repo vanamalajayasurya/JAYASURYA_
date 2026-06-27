@@ -133,7 +133,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/spiderman-venom.gif" width="300" />
+<img src="spiderman-venom.gif" width="300" />
 
 <br/><br/>
 
