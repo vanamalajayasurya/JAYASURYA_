@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn)
+
+<img src="https://raw.githubusercontent.com/jayasurya/jayasurya/main/profile.jpg" width="150" style="border-radius:50%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
 
 # Vanamala Jayasurya
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <p><i>✨ Turning data into insights · Ideas into interfaces · Code into experiences ✨</i></p>
 
@@ -16,7 +22,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** student at Pallavi Engineering College, Hyderabad, passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**.
 
@@ -30,7 +36,6 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 💼 Currently open to **Frontend Developer**, **UI/UX Designer**, and **Data Analyst** roles.
 
 **Fun Facts:**
-
 - 🎨 I obsess over pixel-perfect UI — dark themes & glassmorphism are my love language
 - 🤖 I believe every problem has a data-driven solution *(still testing this theory)*
 - 🌐 From Figma frames to deployed apps — I do the full journey
@@ -101,8 +106,8 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 | 🤖 AI Career Guidance & Resume Analyzer | 🍽️ Meal Monarch |
 |:---|:---|
-| An intelligent career assistant that parses resumes, calculates ATS scores, generates career roadmaps, and provides AI-powered suggestions using Gemini AI. | A full-stack nutrition chatbot that tracks meals, calculates macros, and offers personalized diet advice through a conversational interface. |
-| ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E44AD?style=flat-square&logo=google&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Parses resumes, calculates ATS scores, generates career roadmaps, and provides AI-powered suggestions using Gemini AI. | Full-stack nutrition chatbot that tracks meals, calculates macros, and offers personalized diet advice. |
+| ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E44AD?style=flat-square&logo=google&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 </div>
 
@@ -127,7 +132,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayasurya&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=jayasurya&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -137,7 +142,11 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -155,7 +164,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
 
 </div>
 
