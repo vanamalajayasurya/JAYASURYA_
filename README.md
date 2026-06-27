@@ -142,11 +142,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jayasurya/jayasurya/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
