@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/JAY.png" width="180" />
+<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/JAY.png" width="300" />
 
 
 <br/><br/>
