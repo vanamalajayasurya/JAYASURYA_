@@ -164,11 +164,14 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 My Vibe
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://media.giphy.com/media/H7kfFDvD9HSYGRbvid/giphy.gif" width="200" />
+
+> ### *"Nah, I'd win."*
+> **— Satoru Gojo** 🥷✨
 
 </div>
 
