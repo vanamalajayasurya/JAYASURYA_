@@ -129,10 +129,6 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=vanamalajayasurya&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFB3&icon_color=8360C3&text_color=C9D1D9" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=vanamalajayasurya&theme=radical&hide_border=true&background=0D1117&ring=2EBFB3&fire=8360C3&currStreakLabel=2EBFB3" width="49%" />
 
